@@ -10,4 +10,14 @@ I have been assigned a project where I am responsible for creating a comprehensi
 
 # Sales Dashboard
 
-![Raw data]()
+![Sales Dashboard](https://github.com/user-attachments/assets/c370308a-0568-49e3-a14e-8faa1d58fdb5)
+
+## Sales Dashboard Benefits
+
+- **Annual Revenue:** Provides a clear visual representation of yearly revenue trends, enabling performance tracking over time.
+- **Top Selling Product:** Highlights the best-selling products, helping to identify key revenue drivers and optimize inventory.
+- **Country-wise Profit:** Displays profit distribution across countries, offering a global view of business performance.
+- **Country-wise Revenue:** Enables comparison of revenue generation across different regions, facilitating targeted strategies.
+- **Top Performer:** Identifies top-performing individuals, helping to recognize and reward key contributors.
+- **Interactive Slicers (Country Names, Category):** Allows dynamic filtering by country and product category, providing customized views for deeper analysis.
+
