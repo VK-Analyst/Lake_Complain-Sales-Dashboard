@@ -19,5 +19,7 @@ I have been assigned a project where I am responsible for creating a comprehensi
 - **Country-wise Profit:** Displays profit distribution across countries, offering a global view of business performance.
 - **Country-wise Revenue:** Enables comparison of revenue generation across different regions, facilitating targeted strategies.
 - **Top Performer:** Identifies top-performing individuals, helping to recognize and reward key contributors.
-- **Interactive Slicers (Country Names, Category):** Allows dynamic filtering by country and product category, providing customized views for deeper analysis.
 
+## Download the Sales Dashboard
+
+You can download the Sales Dashboard and The password key to access the dashboard is **ABC123**.
