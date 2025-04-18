@@ -12,7 +12,7 @@ I have been assigned a project where I am responsible for creating a comprehensi
 
 ![Sales Dashboard](https://github.com/user-attachments/assets/c370308a-0568-49e3-a14e-8faa1d58fdb5)
 
-## Sales Dashboard Benefits
+## Sales Dashboard Objectives
 
 - **Annual Revenue:** Provides a clear visual representation of yearly revenue trends, enabling performance tracking over time.
 - **Top Selling Product:** Highlights the best-selling products, helping to identify key revenue drivers and optimize inventory.
